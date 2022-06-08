@@ -7,8 +7,6 @@
 
 <img src="./img/projeto-node-orders.jpg" alt="code-burger-back-end"/>
 
-<img src="./img/projeto-node-orders-1.jpg" alt="code-burger-back-end"/>
-
 <h2>📝 Descrição do Projeto:</h2>
 
 <h3>Back-End do projeto feito para uma hamburgueria ou lanchonetede, onde o usuário pode se cadastrar, fazer o Login e fazer os pedidos dos produtos. Utilizamos Javascript, NodeJS, Express Nodemon, Sucrase, Sequelize e o Insomnia.</h3>
